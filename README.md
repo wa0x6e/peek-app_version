@@ -1,6 +1,6 @@
 # Peek::AppVersion
 
-[![Code Climate](https://codeclimate.com/github/kamisama/peek-app_version/badges/gpa.svg)](https://codeclimate.com/github/kamisama/peek-app_version) [![Gem Version](https://badge.fury.io/rb/kamisama%2Fpeek-app_version.png)](http://badge.fury.io/rb/kamisama%2Fpeek-app_version) [![Inline docs](http://inch-ci.org/github/kamisama/peek-app_version.png?branch=master)](http://inch-ci.org/github/kamisama/peek-app_version)
+[![Code Climate](https://codeclimate.com/github/kamisama/peek-app_version/badges/gpa.svg)](https://codeclimate.com/github/kamisama/peek-app_version) [![Gem Version](https://badge.fury.io/rb/peek-app_version.svg)](http://badge.fury.io/rb/peek-app_version) [![Inline docs](http://inch-ci.org/github/kamisama/peek-app_version.png?branch=master)](http://inch-ci.org/github/kamisama/peek-app_version)
  
 Display your application version number.
 
