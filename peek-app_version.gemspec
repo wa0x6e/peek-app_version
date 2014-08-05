@@ -12,6 +12,8 @@ Gem::Specification.new do |gem|
   gem.summary       = 'Display the application version number.'
   gem.homepage      = 'https://github.com/kamisama/peek-app_version'
   gem.license       = 'MIT'
+  gem.cert_chain  = ['certs/kamisama.pem']
+  gem.signing_key = File.expand_path('~/.ssh/gem-private_key.pem') if $0 =~ /gem\z/
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
