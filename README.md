@@ -27,6 +27,8 @@ And then execute:
 Or install it yourself as:
 
     $ gem install peek-app_version
+    # Or if you want to check for signed gems
+    $ gem install peek-app_version -P MediumSecurity
     
 ## Requirements
 
